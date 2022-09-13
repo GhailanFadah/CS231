@@ -6,3 +6,12 @@ This program was developed durning my sophomore year at Colby college in my data
 
 <img width="584" alt="Screen Shot 2022-09-13 at 10 26 38 AM" src="https://user-images.githubusercontent.com/106716018/189927766-83905699-881a-410d-97e3-74a56d570727.png">
 
+
+outside the scope of the project, I added some color enhancements as well as an automation class to run large sets of trials to collect data.
+
+<img width="225" alt="Screen Shot 2022-09-13 at 10 32 56 AM" src="https://user-images.githubusercontent.com/106716018/189929296-11b29a23-214c-4bcf-b058-732bcc05c4d7.png">
+
+<img width="649" alt="Screen Shot 2022-09-13 at 10 33 06 AM" src="https://user-images.githubusercontent.com/106716018/189929328-897664ff-98bb-421f-867b-110b2fec2bd1.png">
+
+
+
