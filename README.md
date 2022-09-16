@@ -1,3 +1,4 @@
+[![GitHub issues](https://img.shields.io/github/issues/GhailanFadah/CS231)](https://github.com/GhailanFadah/CS231/issues)
 # CS231 Sudoku Solver
 
 A program that solves a given Sudoku puzzle using a backtracking algorithm. Has the ability to create its own random board if one is not passed in.
